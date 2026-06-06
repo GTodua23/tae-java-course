@@ -33,5 +33,6 @@ public class Person {
        P2.introduce();
        System.out.println("სახელი: " + P1.getName() + ", ასაკი: " + P1.getAge() +
                ", მეილი: " + P1.getEmail());
+
     }
 }
