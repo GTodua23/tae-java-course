@@ -1,3 +1,4 @@
+/** @author Giorgi Todua */
 package homework6;
 
 public class Animal {
