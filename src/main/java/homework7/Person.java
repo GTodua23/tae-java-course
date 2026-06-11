@@ -1,5 +1,4 @@
 /** @author გიორგი თოდუა */
-
 package homework7;
 
 import java.util.Arrays;
