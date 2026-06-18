@@ -1,3 +1,4 @@
+/** @author გიორგი თოდუა */
 package homework9;
 
 public class Box<T> {
